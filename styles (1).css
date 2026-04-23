@@ -1,0 +1,46 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial;
+  text-align: center;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvE4H4gtCWSxcBM_OV-zuPgFKt7Eg0oHNnEg&s");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+
+#caixatexto {
+  margin: 20px auto; 
+  height: 1800px;
+  width: 500px;
+  background-color: rgba(126, 206, 202, 0.9);
+  text-align: left; 
+  padding: 20px; 
+  box-sizing: border-box;
+  border: 10px solid #45b5c4;
+}
+
+#kaka {
+ background-color: white;
+  box-sizing: border-box;
+  margin: 20px auto;
+  width: 500px;
+  border: 10px solid #7ececa;
+
+  display: flex;
+  align-items: center; /* alinha verticalmente */
+  gap: 15px;
+  padding: 10px;
+}
+
+.bio {
+  text-align: center;
+}
+
+.foto {
+  width: 80px;
+  height: 80px;
+  border-radius:;
+}
